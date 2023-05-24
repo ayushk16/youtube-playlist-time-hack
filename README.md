@@ -6,6 +6,9 @@ Paste code1.js into your browsers Console , when any video of a particular playl
 Paste code2.js into your browsers Console , when particular view playlist is open in browser. And Press Enter.
 
 ##how to open console
+
 -> Right click any where in browser viewport area.
+
 -> Click on Inspect.
+
 -> Click on Console next to Elements.
